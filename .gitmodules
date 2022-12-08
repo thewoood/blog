@@ -1,0 +1,4 @@
+[submodule "thewoood/thewoood.github.io"]
+	path = thewoood/thewoood.github.io
+	url = https://github.com/thewoood/thewoood.github.io.git
+	branch = main
